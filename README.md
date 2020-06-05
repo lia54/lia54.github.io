@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/lia54/lia54.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Link to another page](./_pages/about.md) 
+[Link to another page](./_pages/about.html) 
 
 ![Image](./images/waterfront.jpg)
 
