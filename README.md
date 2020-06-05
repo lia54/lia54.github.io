@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/lia54/lia54.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Page](./init.html)
+[Link to another page](./init.html) 
+
+![Image](./images/waterfront.jpg)
 
 ### Markdown
 
@@ -25,9 +27,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link to another page](./init.html) 
-
-![Image](./images/waterfront.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
