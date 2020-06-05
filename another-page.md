@@ -1,7 +1,6 @@
 ---
-layout: posts
+layout: post
 title: "Research Projects"
-author_profile: true
-header:
-  image: "/images/fort point.png"
+description: "my new projects"
+logo: "/images/fort point.png"
 ---
