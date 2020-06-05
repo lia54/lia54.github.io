@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link to another page](./_pages/about.md) 
+[Link to another page](./init.md) 
 
 ![Image](./images/waterfront.jpg)
 ```
