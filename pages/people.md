@@ -5,7 +5,7 @@ title: "Sylab People"
 
 ## Faculty
 
-<img align="left" src="/images/octocat.png" width="100" />
+<img align="left" src="/images/octocat.png" width="120" />
 
 [Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/)<br />
 Professor<br />
