@@ -27,7 +27,7 @@
         {% endif %}
         
         {% if site.about %}
-        <p class="view"><a href="{{ site.about | absolute_url}}">About</a></p>
+        <p class="view"><a href="{{ site.about  | replace:'.md','.html' }}">About</a></p>
         {% endif %}
         {% if site.people %}
         <p class="view"><a href="{{ "/pages/people.html" | relative_url }}">People</a></p>
