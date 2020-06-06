@@ -35,33 +35,4 @@ Bachelors |
 Daniel Costaesa, Christopher Kerrutt, Andy Norcisa,<br />Ricarfens Augustin, Aldo Barreras, Mandy Barsilai,<br />Sam Burnett, Ruben Duque, Daniel Galano,<br />Andres Gonzalez, Igor Hernandez, Jason Liptak,<br />Joseph Marrero, Krista Merrill, Joseph Naps,<br />Robert Parks, Jesus Ramos, David Saba,<br />Jaime Soto, Mike Torchio, Ellen Wagner,<br />Jesus Ramos, Carlos Crespo
 
 
- <ul PhD style="width:100%; float:left;">
-      <li>Daniel Campello</li>
-      <li>Mohammad Chowdhury</li>
-      <li>Leonardo Marmol</li>
-      <li>Ricardo Santana</li>
-      <li>Medha Bhadkamkar</li>
-      <li>Fernando Farfan</li>
-      <li>Jorge Guerra</li>
-      <li>Ricardo Koller</li>
-      <li>Luis Useche</li>
-      <li>Sajib Kundu</li>
-   </ul><ul style="width:100%; float:right;">
-      <li>3</li>
-      <li>4</li>
-   </ul>
-
-- Master
-  - Hector Lopez
-  - Robert Fortunato Jr.
-  - Muminul Islam
-  - Bin Liu
-  - Harold Level
-  - Eduardo Monteiro 
-  - Silviu Necula
-  - Eric Sanchez
-- level 1 item
-  - level 2 item
-  - level 2 item
-
 [back](/)
