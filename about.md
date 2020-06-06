@@ -1,10 +1,12 @@
 ---
+layout: post
 title: "About"
-permalink: /about/
-header:
-  image: "/images/zakim.jpg"
+description: "Resume"
+author:
+  name: Liana Valdes
+  bio: PhD candidate at FIU
+  location: FIU, USA
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
 
-Etc, etc, etc
+[back](./)
