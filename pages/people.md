@@ -16,7 +16,7 @@ Florida International University
 
 ## Systems Research Group
 <p float="left">
-  <img src="/images/octocat.png" width="100" />
+  <img src="/images/octocat.png" width="100" alt="Made with Angular" title="Angular" hspace="20" />
   <img src="/images/octocat.png" width="100" /> 
   <img src="/images/octocat.png" width="100" />
 </p>
