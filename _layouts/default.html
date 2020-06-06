@@ -26,10 +26,18 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
         
+        {% if site.about %}
         <p class="view"><a href="{{ site.about | absolute_url}}">About</a></p>
+        {% endif %}
+        {% if site.people %}
         <p class="view"><a href="{{ "/pages/people.md" | absolute_url }}">People</a></p>
+        {% endif %}
+        {% if site.research %}
         <p class="view"><a href="{{ site.research | relative_url}}">Research Projects</a>
+        {% endif %}
+        {% if site.sponsors %}  
         <p class="view"><a href="{{ site.sponsors | relative_url}}">Sponsors</a></li>
+        {% endif %}
       
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View GitHub Repository</a></p>
