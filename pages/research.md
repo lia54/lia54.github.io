@@ -10,4 +10,4 @@ author:
 
 _yay_
 
-[back](./)
+[back](/)
