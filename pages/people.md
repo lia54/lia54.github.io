@@ -32,7 +32,7 @@ Daniel Campello<br />Mohammad Chowdhury<br />Leonardo Marmol<br />Ricardo Santan
 
 Bachelors |
 --|
-Daniel Costaesa, Christopher Kerrutt, Andy Norcisa, Ricarfens Augustin, Aldo Barreras, Mandy Barsilai, Sam Burnett, Ruben Duque, Daniel Galano, Andres Gonzalez, Igor Hernandez, Jason Liptak, Joseph Marrero, Krista Merrill, Joseph Naps, Robert Parks, Jesus Ramos, David Saba, Jaime Soto, Mike Torchio, Ellen Wagner, Jesus Ramos, Carlos Crespo
+Daniel Costaesa, Christopher Kerrutt, Andy Norcisa,<br />Ricarfens Augustin, Aldo Barreras, Mandy Barsilai,<br />Sam Burnett, Ruben Duque, Daniel Galano,<br />Andres Gonzalez, Igor Hernandez, Jason Liptak,<br />Joseph Marrero, Krista Merrill, Joseph Naps,<br />Robert Parks, Jesus Ramos, David Saba,<br />Jaime Soto, Mike Torchio, Ellen Wagner,<br />Jesus Ramos, Carlos Crespo
 
 
  <ul PhD style="width:100%; float:left;">
