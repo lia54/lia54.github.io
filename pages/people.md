@@ -15,16 +15,14 @@ College of Engineering and Computing<br />
 Florida International University
 
 ## Systems Research Group
-<p float="left">
-  <img align="left" src="/images/octocat.png" width="100" hspace="50">
-  <em>image_caption</em>
-  <img align="left" src="/images/octocat.png" width="100" hspace="50"> 
-  <img align="left" src="/images/octocat.png" width="100" > 
-</p>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Image](/images/octocat.png) |  ![Image](/images/octocat.png)
+:-------------------------:|:-------------------------:
+[Steven Lyons](https://users.cs.fiu.edu/~slyon001/) | [Liana Valdes](https://lia54.github.io/) 
 
 
-![Image](/images/octocat.png)<br />
-[Steven Lyons](https://users.cs.fiu.edu/~slyon001/) 
 
 ![Image](/images/octocat.png)<br />
 [Liana Valdes](https://lia54.github.io/) 
