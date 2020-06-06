@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "init"
 ---
 
 _yay_
