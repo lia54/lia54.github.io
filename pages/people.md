@@ -6,12 +6,12 @@ title: "Sylab People"
 ## Faculty
 
 <img align="left" src="/images/octocat.png" width="100" />
+
 [Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/)<br />
 Professor<br />
 Systems Research Laboratory (SyLab)<br />
 School of Computing and Information Sciences<br />
 College of Engineering and Computing<br />
-Florida International University
 
 ## Systems Research Group
 
