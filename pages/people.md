@@ -2,6 +2,7 @@
 layout: post
 title: "Sylab People"
 ---
+* * *
 
 ## Faculty<br />
 
@@ -13,7 +14,7 @@ Systems Research Laboratory (SyLab)<br />
 School of Computing and Information Sciences<br />
 College of Engineering and Computing<br />
 
-
+* * *
 
 ## Systems Research Group <br />
 
@@ -23,5 +24,8 @@ College of Engineering and Computing<br />
 <img align="center" src="/images/octocat.png" width="100" /> |  <img align="center" src="/images/octocat.png" width="100" /> | <img align="center" src="/images/octocat.png" width="100" />
 [Stephen Ballesteros](https://users.cs.fiu.edu/~slyon001/)<br /> Undergraduate student | [Alexis Gonzales](https://lia54.github.io/) <br /> Undergraduate student|[Shannon (Darya) Chepurna](https://lia54.github.io/) <br /> Undergraduate student
 
+* * *
+
+## Alumni <br />
 
 [back](/)
