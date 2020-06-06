@@ -19,7 +19,6 @@ Florida International University
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![Image](/images/octocat.png) |  ![Image](/images/octocat.png)
-:-------------------------:|:-------------------------:
 [Steven Lyons](https://users.cs.fiu.edu/~slyon001/) | [Liana Valdes](https://lia54.github.io/) 
 
 
