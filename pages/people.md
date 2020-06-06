@@ -38,9 +38,7 @@ College of Engineering and Computing<br />
       <li>Ricardo Koller</li>
       <li>Luis Useche</li>
       <li>Sajib Kundu</li>
-   </ul>
-
-   <ul style="width:100%; float:right;">
+   </ul><ul style="width:100%; float:right;">
       <li>3</li>
       <li>4</li>
    </ul>
