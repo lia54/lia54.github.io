@@ -30,13 +30,13 @@
         <p class="view"><a href="{{ site.about  | replace:'.md','.html' }}">About</a></p>
         {% endif %}
         {% if site.people %}
-        <p class="view"><a href="{{ "/pages/people.html" | relative_url }}">People</a></p>
+        <p class="view"><a href="{{ site.people | replace:'.md','.html' }}">People</a></p>
         {% endif %}
         {% if site.research %}
-        <p class="view"><a href="{{ link /pages/research.md | relative_url}}">Research2 Projects</a>
+        <p class="view"><a href="{{ site.research | replace:'.md','.html' }}">Research Projects</a>
         {% endif %}
         {% if site.sponsors %}  
-        <p class="view"><a href="{{ site.sponsors | relative_url}}">Sponsors</a></li>
+        <p class="view"><a href="{{ site.sponsors | replace:'.md','.html' }}">Sponsors</a></li>
         {% endif %}
       
         {% if site.github.is_user_page %}
