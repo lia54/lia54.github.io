@@ -19,7 +19,7 @@ Florida International University
 Solarized dark             |  Solarized Ocean         | Another
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Image](/images/octocat.png) |  ![Image](/images/octocat.png) | ![Image](/images/octocat.png)
-[Steven Lyons](https://users.cs.fiu.edu/~slyon001/) | [Liana Valdes](https://lia54.github.io/) |[Stephen Ballesteros](https://lia54.github.io/) 
+[Steven Lyons](https://users.cs.fiu.edu/~slyon001/)<br /> PhD student| [Liana Valdes](https://lia54.github.io/) <br /> PhD student|[Stephen Ballesteros](https://lia54.github.io/) 
 
 
 
