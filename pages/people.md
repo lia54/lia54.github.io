@@ -17,8 +17,8 @@ Florida International University
 ## Systems Research Group
   <img align="left" src="/images/octocat.png" width="100" hspace="50" />
   <img align="left" src="/images/octocat.png" width="100" hspace="50"/> 
-  <img align="left" src="/images/octocat.png" width="100" hspace="50"/>
-  <br />
+  <img align="left" src="/images/octocat.png" width="100"/>
+
 
 ![Image](/images/octocat.png)<br />
 [Steven Lyons](https://users.cs.fiu.edu/~slyon001/) 
