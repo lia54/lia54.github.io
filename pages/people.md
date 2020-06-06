@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "init"
+title: "Sylab People"
 ---
-## Sylab People 
 
 ### Faculty
 
