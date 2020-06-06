@@ -17,7 +17,7 @@ Florida International University
 ## Systems Research Group
   <img align="left" src="/images/octocat.png" width="100" hspace="50" />
   <img align="left" src="/images/octocat.png" width="100" hspace="50"/> 
-  <img align="left" src="/images/octocat.png" width="100"/><br />
+  <img align="left" src="/images/octocat.png" width="100"/> <br /><br />
 
 
 ![Image](/images/octocat.png)<br />
