@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Research Projects](./another-page.html) 
 
-[Link to another page](./init.html) 
+[Link to another page](./init.md) 
 
 ![Image](./images/waterfront.jpg)
 
