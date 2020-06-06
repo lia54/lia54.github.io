@@ -27,27 +27,24 @@ College of Engineering and Computing<br />
 
 ## Alumni <br />
 
- <ul style="width:100%; float:left;">
+ <ul PhD style="width:100%; float:left;">
       <li>Daniel Campello</li>
       <li>Mohammad Chowdhury</li>
       <li>Leonardo Marmol</li>
+      <li>Ricardo Santana</li>
+      <li>Medha Bhadkamkar</li>
+      <li>Fernando Farfan</li>
+      <li>Jorge Guerra</li>
+      <li>Ricardo Koller</li>
+      <li>Luis Useche</li>
+      <li>Sajib Kundu</li>
    </ul>
 
    <ul style="width:100%; float:right;">
       <li>3</li>
       <li>4</li>
    </ul>
-- PhD
-  - Daniel Campello
-  - Mohammad Chowdhury
-  - Leonardo Marmol
-  - Ricardo Santana
-  - Medha Bhadkamkar
-  - Fernando Farfan
-  - Jorge Guerra
-  - Ricardo Koller
-  - Luis Useche
-  - Sajib Kundu
+
 - Master
   - Hector Lopez
   - Robert Fortunato Jr.
