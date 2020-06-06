@@ -26,6 +26,10 @@ College of Engineering and Computing<br />
 
 
 ## Alumni <br />
+PhD | Masters | Bachelors
+--|--|--
+Daniel Campello<br />Mohammad Chowdhury<br />Leonardo Marmol<br />Ricardo Santana| Hector Lopez<br />Robert Fortunato Jr.<br />Muminul Islam<br />Bin Liu<br />Harold Level | Daniel Costaesa<br />Christopher Kerrutt<br />Andy Norcisa
+
 
  <ul PhD style="width:100%; float:left;">
       <li>Daniel Campello</li>
