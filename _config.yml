@@ -1,6 +1,11 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 title: Liana Valdes
 description: My projects website
+logo: /images/waterfront.jpg
+show_downloads: true
+people: /init.md
+research: /another-page.md
+sponsors: /_pages/about.md
 
 author:
   name: Liana Valdes
