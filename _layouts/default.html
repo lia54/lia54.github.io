@@ -30,9 +30,9 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
         
-        <p class="view"><a href="{{ site.people }}">People</a></p>
-        <p class="view"><a href="{{ site.research}}">Research Projects</a>
-        <p class="view"><a href="{{ site.sponsors}}">Sponsors</a></li>
+        <p class="view"><a href="{{ site.people | relative_url}}">People</a></p>
+        <p class="view"><a href="{{ site.research | relative_url}}">Research Projects</a>
+        <p class="view"><a href="{{ site.sponsors | relative_url}}">Sponsors</a></li>
 
         {% if site.show_downloads %}
         <ul class="downloads">
