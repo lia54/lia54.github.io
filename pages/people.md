@@ -15,6 +15,11 @@ College of Engineering and Computing<br />
 Florida International University
 
 ## Systems Research Group
+<p float="left">
+  <img src="/images/octocat.png" width="100" />
+  <img src="/images/octocat.png" width="100" /> 
+  <img src="/images/octocat.png" width="100" />
+</p>
 
 ![Image](/images/octocat.png)<br />
 [Steven Lyons](https://users.cs.fiu.edu/~slyon001/) 
