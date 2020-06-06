@@ -7,7 +7,7 @@ title: "Sylab People"
 
 ![Image](/images/octocat.png)
 
-[Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/) 
+[Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/)\ 
 Professor
 Systems Research Laboratory (SyLab)
 School of Computing and Information Sciences
@@ -16,7 +16,7 @@ Florida International University
 
 ## Systems Research Group
 
-![Image](/images/octocat.png)
+![Image](/images/octocat.png)\
 [Steven Lyons](https://users.cs.fiu.edu/~slyon001/) 
 
 ![Image](/images/octocat.png)
