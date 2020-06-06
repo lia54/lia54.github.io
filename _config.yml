@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Liana Valdes
 description: My projects website
 logo: /images/waterfront.jpg
+show_downloads: true
 
 author:
   name: Liana Valdes
