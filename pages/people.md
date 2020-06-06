@@ -15,10 +15,9 @@ College of Engineering and Computing<br />
 Florida International University
 
 ## Systems Research Group
-  <img align="left" src="/images/octocat.png" width="100" alt="Made with Angular" title="Angular" hspace="50" />
+  <img align="left" src="/images/octocat.png" width="100" hspace="50" />
   <img align="left" src="/images/octocat.png" width="100" hspace="50"/> 
-  <img align="left" src="/images/octocat.png" width="100" />
-  <br/><br/><br/><br/><br/>
+  <img align="left" src="/images/octocat.png" width="100" hspace="50"/>
 
 ![Image](/images/octocat.png)<br />
 [Steven Lyons](https://users.cs.fiu.edu/~slyon001/) 
