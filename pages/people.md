@@ -28,7 +28,7 @@ College of Engineering and Computing<br />
 ## Alumni <br />
 PhD | Masters | Bachelors
 --|--|--
-Daniel Campello<br />Mohammad Chowdhury<br />Leonardo Marmol<br />Ricardo Santana| Hector Lopez<br />Robert Fortunato Jr.<br />Muminul Islam<br />Bin Liu<br />Harold Level | Daniel Costaesa<br />Christopher Kerrutt<br />Andy Norcisa
+Daniel Campello<br />Mohammad Chowdhury<br />Leonardo Marmol<br />Ricardo Santana<br />Medha Bhadkamkar<br />Fernando Farfan<br />Jorge Guerra<br />Ricardo Koller<br />Luis Useche<br />Sajib Kundu| Hector Lopez<br />Robert Fortunato Jr.<br />Muminul Islam<br />Bin Liu<br />Harold Level<br />Eduardo Monteiro<br />Silviu Necula<br />Eric Sanchez | Daniel Costaesa<br />Christopher Kerrutt<br />Andy Norcisa<br />Ricarfens Augustin<br />Aldo Barreras<br />Mandy Barsilai<br />Sam Burnett<br />Ruben Duque<br />Daniel Galano<br />Andres Gonzalez<br />Igor Hernandez<br />Jason Liptak<br />Joseph Marrero<br />Krista Merrill<br />Joseph Naps<br />Robert Parks<br />Jesus Ramos<br />David Saba<br />Jaime Soto<br />Mike Torchio<br />Ellen Wagner<br />Jesus Ramos<br />Carlos Crespo<br />
 
 
  <ul PhD style="width:100%; float:left;">
