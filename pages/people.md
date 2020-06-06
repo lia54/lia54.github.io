@@ -11,11 +11,11 @@ title: "Sylab People"
 Professor<br />
 Systems Research Laboratory (SyLab)<br />
 School of Computing and Information Sciences<br />
-College of Engineering and Computing<br /><br /><br />
+College of Engineering and Computing<br /><br /><br /><br />
 
 
 
-## Systems Research Group
+## Systems Research Group <br /><br /><br />
 
 <img align="left" src="/images/octocat.png" width="100" /> |  <img align="left" src="/images/octocat.png" width="100" /> | <img align="left" src="/images/octocat.png" width="100" />
 --|--|--
