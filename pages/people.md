@@ -15,9 +15,12 @@ College of Engineering and Computing<br />
 Florida International University
 
 ## Systems Research Group
-  <img align="left" src="/images/octocat.png" width="100" hspace="50" />
-  <img align="left" src="/images/octocat.png" width="100" hspace="50"/> 
-  <img align="left" src="/images/octocat.png" width="100"/> <br /><br />
+<p float="left">
+  <img align="left" src="/images/octocat.png" width="100" hspace="50" alt/>
+  <em>image_caption</em>
+  <img align="left" src="/images/octocat.png" width="100" hspace="50" alt/> 
+  <img align="left" src="/images/octocat.png" width="100" alt/> 
+</p>
 
 
 ![Image](/images/octocat.png)<br />
