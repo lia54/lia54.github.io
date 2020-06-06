@@ -3,7 +3,7 @@ layout: post
 title: "Sylab People"
 ---
 
-## Faculty
+## Faculty<br />
 
 <img align="left" src="/images/octocat.png" width="120" />
 
@@ -15,7 +15,7 @@ College of Engineering and Computing<br /><br /><br /><br />
 
 
 
-## Systems Research Group <br /><br /><br />
+## Systems Research Group <br />
 
 <img align="left" src="/images/octocat.png" width="100" /> |  <img align="left" src="/images/octocat.png" width="100" /> | <img align="left" src="/images/octocat.png" width="100" />
 --|--|--
