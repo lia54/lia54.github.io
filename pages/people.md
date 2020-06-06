@@ -24,9 +24,19 @@ College of Engineering and Computing<br />
 <img align="center" src="/images/octocat.png" width="100" /> |  <img align="center" src="/images/octocat.png" width="100" /> | <img align="center" src="/images/octocat.png" width="100" />
 [Stephen Ballesteros](https://users.cs.fiu.edu/~slyon001/)<br /> Undergraduate student | [Alexis Gonzales](https://lia54.github.io/) <br /> Undergraduate student|[Shannon (Darya) Chepurna](https://lia54.github.io/) <br /> Undergraduate student
 
-* * *
 
 ## Alumni <br />
+
+ <ul style="width:100%; float:left;">
+      <li>Daniel Campello</li>
+      <li>Mohammad Chowdhury</li>
+      <li>Leonardo Marmol</li>
+   </ul>
+
+   <ul style="width:100%; float:left;">
+      <li>3</li>
+      <li>4</li>
+   </ul>
 - PhD
   - Daniel Campello
   - Mohammad Chowdhury
