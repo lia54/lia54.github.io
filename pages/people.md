@@ -27,5 +27,28 @@ College of Engineering and Computing<br />
 * * *
 
 ## Alumni <br />
+- PhD
+  - Daniel Campello
+  - Mohammad Chowdhury
+  - Leonardo Marmol
+  - Ricardo Santana
+  - Medha Bhadkamkar
+  - Fernando Farfan
+  - Jorge Guerra
+  - Ricardo Koller
+  - Luis Useche
+  - Sajib Kundu
+- Master
+  - Hector Lopez
+  - Robert Fortunato Jr.
+  - Muminul Islam
+  - Bin Liu
+  - Harold Level
+  - Eduardo Monteiro 
+  - Silviu Necula
+  - Eric Sanchez
+- level 1 item
+  - level 2 item
+  - level 2 item
 
 [back](/)
