@@ -16,10 +16,10 @@ Florida International University
 
 ## Systems Research Group
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![Image](/images/octocat.png) |  ![Image](/images/octocat.png)
-[Steven Lyons](https://users.cs.fiu.edu/~slyon001/) | [Liana Valdes](https://lia54.github.io/) 
+Solarized dark             |  Solarized Ocean         | Another
+:-------------------------:|:-------------------------:|:-------------------------:
+![Image](/images/octocat.png) |  ![Image](/images/octocat.png) | ![Image](/images/octocat.png)
+[Steven Lyons](https://users.cs.fiu.edu/~slyon001/) | [Liana Valdes](https://lia54.github.io/) |[Stephen Ballesteros](https://lia54.github.io/) 
 
 
 
