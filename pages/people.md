@@ -9,14 +9,10 @@ title: "Sylab People"
 
 [Raju Rangaswami](https://users.cs.fiu.edu/~raju/WWW/)
 
-Professor
-
-Systems Research Laboratory (SyLab)
-
-School of Computing and Information Sciences
-
-College of Engineering and Computing
-
+Professor<br />
+Systems Research Laboratory (SyLab)<br />
+School of Computing and Information Sciences<br />
+College of Engineering and Computing<br />
 Florida International University
 
 ## Systems Research Group
