@@ -33,7 +33,7 @@ College of Engineering and Computing<br />
       <li>Leonardo Marmol</li>
    </ul>
 
-   <ul style="width:100%; float:left;">
+   <ul style="width:100%; float:right;">
       <li>3</li>
       <li>4</li>
    </ul>
