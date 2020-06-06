@@ -16,7 +16,7 @@ Florida International University
 
 ## Systems Research Group
 
-![Image|medium](/images/octocat.png) |  ![Image|medium](/images/octocat.png) | ![Image|medium](/images/octocat.png)
+<img src="/images/octocat.png" width="100" /> |  <img src="/images/octocat.png" width="100" /> | <img src="/images/octocat.png" width="100" />
 --|--|--
 [Steven Lyons](https://users.cs.fiu.edu/~slyon001/)<br /> PhD student | [Liana Valdes](https://lia54.github.io/) <br /> PhD student|[Ashikee Ghosh](https://lia54.github.io/) <br /> PhD student
 
