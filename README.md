@@ -1,7 +1,7 @@
 ## Liana Valdes
 ## Ph.D. Candidate
-# School of Computing and Information Science
-# Florida International University
+### School of Computing and Information Science
+### Florida International University
 
 
 
